@@ -16,6 +16,7 @@ public class NameListServiceTest {
 
         }
         System.out.println("test 一下 github操作,thired commit in hot-fix,four commit in hot-fix");
+        System.out.println("first cold-fix commit from hot-fix ,four commit");
 
     }
 
